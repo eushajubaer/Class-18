@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+#banner{
+    background: url(../images/bng.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 300px 0;
+}
+.counter_item{
+    padding: 50px;
+    background: darkslateblue;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 20px;
+}
+
+
+#banner_tow{
+    background: url(../images/pexels-sevenstormphotography-399973.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 300px 0;
+}
